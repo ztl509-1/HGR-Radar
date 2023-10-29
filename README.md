@@ -1,1 +1,1 @@
-# HGR-Radarnet
+# HGR-Radar
